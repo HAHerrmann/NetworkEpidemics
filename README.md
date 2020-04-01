@@ -30,6 +30,8 @@ The `SIRModelAnalysis` files generates figures from the simulation saved when ru
 # Pre-print 
 All of the simulations used to generate the figures in our pre-print are stored in the `ManuscriptData` zip file. 
 
+![Example Output of SIR on Scale-free](ExNetwork.png)
+
 # Contacts
 
 - helena.herrmann@manchester.ac.uk
