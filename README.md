@@ -8,7 +8,7 @@ The University of Manchester
 
 The global spread of Coronavirus Disease 2019 (COVID-19) is overwhelming many health-care systems. 
 As a result, epidemiological models are being used to inform policy on how to effectively deal with this pandemic. 
-We note that the majority of existing models do take into account differences in the amount of interactions between 
+We note that the majority of existing models do not take into account differences in the amount of interactions between 
 individuals (i.e. the underlying human interaction network). 
 Using network science we demonstrate how this network of interactions can be used to predict the spread of the virus 
 and to inform policy on the most successful mitigation and suppression strategies. 
