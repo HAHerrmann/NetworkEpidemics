@@ -28,6 +28,11 @@ All outputs are stored as pickle files.
 The `SIRModelAnalysis` files generates figures from the simulation saved when running the `SIRModelSimulations` file.
 
 # Pre-print 
+A snapshopt of the code at the time of the pre-print submission can be found here: 
+
+[![DOI](https://zenodo.org/badge/252158608.svg)](https://zenodo.org/badge/latestdoi/252158608) 
+
+
 All of the simulations used to generate the figures in our pre-print are stored in the `ManuscriptData` zip file. 
 
 ![Example Output of SIR on Scale-free](ExNetwork.png)
