@@ -1,8 +1,12 @@
-# Using network science to propose strategies for effectively dealing with pandemics: The COVID-19 example
+# Why COVID-19 models should incorporate the network of social interactions
 
 Helena A Herrmann, Jean-Marc Schwartz
 
 The University of Manchester
+
+This research was accepted for publication in a special issue of Physical Biology: 
+- DOI: [10.1088/1478-3975/aba8ec](https://pubmed.ncbi.nlm.nih.gov/32702678/)
+
 
 # Summary
 
