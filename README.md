@@ -41,5 +41,5 @@ All of the simulations used to generate the figures in our publication are store
 
 # Contacts
 
-- helena.herrmann@manchester.ac.uk
+- helena.herrmann@univie.ac.at
 - jean-marc.schwartz@manchester.ac.uk
