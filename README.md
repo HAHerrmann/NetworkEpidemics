@@ -3,6 +3,7 @@
 Authors: Helena A Herrmann<sup>1</sup>, Jean-Marc Schwartz<sup>2</sup>
 
 <sup>1</sup>Faculty of Chemistry, The University of Vienna, Vienna, Austria
+
 <sup>2</sup>Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, United Kingdom
 
 ### Contacts
