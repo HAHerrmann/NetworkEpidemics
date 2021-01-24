@@ -5,7 +5,7 @@ Authors: Helena A Herrmann<sup>1</sup>, Jean-Marc Schwartz<sup>2</sup>
 <sup>1</sup>Faculty of Chemistry, The University of Vienna, Vienna, Austria
 <sup>2</sup>Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, United Kingdom
 
-# Contacts
+### Contacts
 
 - helena.herrmann@univie.ac.at
 - jean-marc.schwartz@manchester.ac.uk
@@ -17,13 +17,13 @@ Manuscript 1 was accepted for publication in a special issue of Physical Biology
 
 Manuscript 2 is in preparation/submission. 
 
-## Manuscript 1: Why COVID-19 models should incorporate the network of social interactions
+# Manuscript 1: Why COVID-19 models should incorporate the network of social interactions
 
-# Summary
+### Summary
 
 The global spread of coronavirus disease 2019 (COVID-19) is overwhelming many health-care systems. As a result, epidemiological models are being used to inform policy on how to effectively deal with this pandemic. The majority of existing models assume random diffusion but do not take into account differences in the amount of interactions between individuals, i.e. the underlying human interaction network, whose structure is known to be scale-free. Here, we demonstrate how this network of interactions can be used to predict the spread of the virus and to inform policy on the most successful mitigation and suppression strategies. Using stochastic simulations in a scale-free network, we show that the epidemic can propagate for a long time at a low level before the number of infected individuals suddenly increases markedly, and that this increase occurs shortly after the first hub is infected. We further demonstrate that mitigation strategies that target hubs are far more effective than strategies that randomly decrease the number of connections between individuals. Although applicable to infectious disease modelling in general, our results emphasize how network science can improve the predictive power of current COVID-19 epidemiological models.
 
-# Source Code
+### Source Code
 
 The `SIRModelSetUp` file provides an illustrative example of an SIR model run on a scale-free network. 
 
@@ -42,13 +42,13 @@ All of the simulations used to generate the figures in our publication are store
 
 ![Example SIR on Scale-free](ExNetwork1.png)
 
-## Manuscript 2: Why COVID-19 vaccination strategies should consider the network of social interactions
+# Manuscript 2: Why COVID-19 vaccination strategies should consider the network of social interactions
 
-# Summary 
+### Summary 
 
 *insert Abstract* 
 
-# Source Code 
+### Source Code 
 
 The `SIRSModelSetUp` file is used to generate networks of a specific power-law distribution and a specific global clustering/ transitivity. 
 
