@@ -58,7 +58,9 @@ The `SIRSModelSimulation_Vaccine` file does the same as the `SIRModelSimulations
 
 The `SIRSModelAnalysis` and the `SIRSModelAnalysis_Vaccine` files generates figures from the simulation saved when running the `SIRSModelSimulations` and the `SIRSModelSimulation_Vaccine` files, respectively.
 
-A snapshot of the code at the time of submission can be found here: *insert Zenodo DOI*
+A snapshot of the code at the time of submission can be found here: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4485325.svg)](https://doi.org/10.5281/zenodo.4485325)
 
 ![Example SIRS on Scale-free with degree exponent 3.2 and transitivity 0.18](ExNetwork2.svg)
 
