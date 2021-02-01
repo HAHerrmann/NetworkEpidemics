@@ -47,7 +47,7 @@ All of the simulations used to generate the figures in our publication are store
 
 ### Summary 
 
-*insert Abstract* 
+Since the onset of the global coronavirus disease 2019 (COVID-19) pandemic, different mitigation and management strategies limiting economic and social activities have been implemented across many countries. Despite these strategies, the virus continues to spread and mutate. As a result, vaccinations are now administered to suppress the pandemic. Current COVID-19 models need to be updated to account for the change in behaviour of new strains, such as an increased virulence and higher transmission. Furthermore, models need to account for an increasingly vaccinated population. We conduct a parameter sensitivity analysis of an updated network model of COVID-19 and show that the average immunity length after an infection is one of the most critical parameters to define the spread of the disease. Furthermore we rerun our model, implementing different vaccination strategies, and show that vaccinating highly connected individuals first is the quickest strategy for eradicating the disease. 
 
 ### Source Code 
 
