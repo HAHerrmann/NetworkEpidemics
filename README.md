@@ -1,6 +1,6 @@
 # Using network science to propose strategies for dealing with pandemics 
 
-Authors: Helena A Herrmann<sup>1</sup>, Jean-Marc Schwartz<sup>2</sup>
+Authors: Helena A Saunders (previously Herrmann)<sup>1</sup>, Jean-Marc Schwartz<sup>2</sup>
 
 <sup>1</sup>Faculty of Chemistry, The University of Vienna, Vienna, Austria
 
@@ -13,10 +13,11 @@ Authors: Helena A Herrmann<sup>1</sup>, Jean-Marc Schwartz<sup>2</sup>
 
 The work in this repository is published as two separate articles, referred to as __Manuscript1__ and __Manuscript2__. 
 
-Manuscript 1 was accepted for publication in a special issue of Physical Biology: 
+Manuscript 1 has been published in a special issue of Physical Biology: 
 - DOI: [10.1088/1478-3975/aba8ec](https://iopscience.iop.org/article/10.1088/1478-3975/aba8ec).
 
-Manuscript 2 is in preparation/submission. 
+Manuscript 2 has been published in Nature Scientific reports:
+- DOI: [10.1038/s41598-021-03167-1](https://www.nature.com/articles/s41598-021-03167-1)
 
 # Manuscript 1: Why COVID-19 models should incorporate the network of social interactions
 
